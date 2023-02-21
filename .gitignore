@@ -1,8 +1,18 @@
 # Byte-compiled / optimized / DLL files
+*.pyc
 __pycache__/
+**/*.pyc
+#rm **/*.pyc
 *.py[cod]
 # **/__pycache__/.*
 # *.py[cod]
 # *$py.class
 # Unit test / coverage reports
 .tox/**/
+
+
+# I hope the master branch contains all of your pushed changes Steps to merge your branch
+
+# git checkout main
+# git merge master
+# git push origin main
